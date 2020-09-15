@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>We Help By Coding!</title>
+
+<style>
+body {
+  margin: 0;
+}
+
+.meniu {
+  overflow: hidden;
+  background-color: #355C7D;
+}
+
+.meniu a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.meniu a:hover {
+  background-color: #ACe7FF	;
+  color: black;
+}
+
+.titlu {
+	background-color:purple;
+	padding-left:200px;
+}
+
+.imagine{
+
+		padding-left:200px;
+}
+
+a{
+	text-decoration:none;
+	font-size:12px;
+	padding-left:200px;
+}
+.paragraf{
+	padding-left:200px;	
+}
+</style>
+
+</head>
+<body>
+
+<!--Meniu-->
+<div class="meniu">
+  <a href="#despre">Despre Noi</a>
+  <a href="#noutati">Noutati</a>
+  <a href="#contact">Contact</a>
+  <a href="#participanti">Participanti</a>
+</div>
+
+<!--Continut-->
+<div class="titlu"> 
+	<h1>We Help By Coding!</h1>
+</div>
+<div class="paragraf">
+	<p>Acesta este un paragraf.</p>
+</div>
+<div class="link">
+	<a href="http://we-help.ro">Viziteaza website-ul Asociatiei WeHelp!</a>
+</div>
+<div class="imagine" >
+	<img src="imagine.jpg" alt="pisica" width="1100" height="830">
+</div>
+</body>
+</html>
