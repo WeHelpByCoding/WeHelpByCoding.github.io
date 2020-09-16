@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>We Help By Coding</title>
+</head>
+<body>
+
+<!--Meniu-->
+<div>
+  <a href="#despre">Despre Noi</a>
+  <a href="#noutati">Noutati</a>
+  <a href="#contact">Contact</a>
+  <a href="#participanti">Participanti</a>
+</div>
+
+<!--Continut-->
+<h1>We Help By Coding!</h1>
+<p>Acesta este un paragraf.</p>
+<a href="www.we-help.ro">Viziteaza website-ul Asociatiei WeHelp!</a>
+<img src="imagine.jpg" alt="pisica">
+
+
+</body>
+</html>
