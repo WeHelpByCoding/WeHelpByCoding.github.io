@@ -1,9 +1,5 @@
-Proiectul își propune sa aprofundeze cunoștințele tehnologice dobandite în edițiile anterioare de către copiii din SOS Satele Copiilor.
-Proiectul se va desfășura în mediul online și constă în trei întâlniri săptămânale. Fiecare întâlnire este de două ore, iar copiii vor avea sarcini de îndeplinit de pe o săptămână pe alta. Fiecare website va avea propria lui tematică. (ex: poveștile copiilor, activități preferate, o zi la SOS).
-Cursul este structurat astfel:
-- exerciții de utilizare a motoarelor de căutare
-- folosirea cuvintelor cheie
-- identificarea știrilor false
-- introducerea elementelor noi de HTML, CSS și Bootstrap
-- dezvoltarea unui site web pentru comunitatea copiilor de la SOS Satele Copiilor Cisnădie
-- vor fi introduse tehnici de management de proiect și lucru în echipă
+Proiectul este organizat de Asociatia We Help Sibiu finantat cu ajutorul initiativei Meet and Code sustinuta la nivel european de compania de software SAP.
+
+Proiectul "We Help By Coding - Me and My Community" si-a propus aprofundarea cunostintele tehnologice dobandite in editiile anterioare de catre copiii din SOS Satele Copiilor. Proiectul s-a desfasurat in mediul online prin intalniri saptamanale.
+
+Fiecare pagina web are propria tematica.
